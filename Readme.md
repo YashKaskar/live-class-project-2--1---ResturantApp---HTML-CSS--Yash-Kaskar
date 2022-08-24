@@ -15,3 +15,7 @@ ____________What i learned from this project____________
 * text color 
 * font-size
 
+_____________Time to complete the project_____________
+
+It took 3 hrs to complete this project 
+
